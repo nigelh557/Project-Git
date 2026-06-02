@@ -24,5 +24,11 @@ All that is left is to update the local repository. By switching back to the mas
 
 We have come to the end of this project!
 
+This exercise had me working inside PowerShell, where I interacted with GitHub to create and manage a repository while practicing core Git workflows. Using Git commands, I created and modified files, tracked changes, committed updates, and pushed and pulled changes between my local repository and the remote repository stored on GitHub.
+
+Branching was used to practice good workflow habits while making changes to project content. A separate branch allowed updates to be made without directly affecting the main/master branch, giving space to test and revise changes safely. After the content was finalized, a pull request was created to review and merge the updates back into the main/master branch, followed by updating the local repository to ensure everything remained synchronized.
+(End change 6)
+
+
 
 
